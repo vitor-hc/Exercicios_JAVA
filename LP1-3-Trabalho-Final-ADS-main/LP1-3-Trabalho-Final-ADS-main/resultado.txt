@@ -1,0 +1,41 @@
+------------------- P1 -----------------------
+23/7/2021
+8:50:30(AM)
+Vitor
+Antonio
+----------------------------------------------
+Digite a hora:
+19
+Digite os minutos: 
+34
+Digite os segundos: 
+41
+Digite o dia: 23
+Digite o mes: 07
+Digite o ano: 2021
+Digite o nome do(a) paciente: Vitor
+Digite o nome do(a) medico(a): Antonio
+------------------- P2 -----------------------
+23/7/2021
+19:34:41(PM)
+Vitor
+Antonio
+----------------------------------------------
+------------------- P1 -----------------------
+23/7/2021
+8:50:30(AM)
+Vitor
+Antonio
+----------------------------------------------
+Digite o dia: 05
+Digite o mes: 10
+Digite o ano: 2000
+Digite a hora: 
+8
+Digite os minutos: 
+50
+Digite os segundos: 
+20
+Digite o nome do(a) paciente: Antonio
+Digite o nome do(a) medico(a): Vitor
+Quantidade de consultas: 2
